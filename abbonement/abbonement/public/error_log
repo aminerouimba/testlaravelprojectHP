@@ -1,0 +1,423 @@
+[10-Oct-2024 18:58:25 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Oct-2024 18:58:25 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Oct-2024 18:59:58 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Oct-2024 19:00:21 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Oct-2024 19:00:23 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Oct-2024 19:00:54 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Oct-2024 19:01:25 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Oct-2024 19:37:46 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined variable: version in /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php:1551
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Breadcrumbs/ErrorHandler.php(34): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/spales2t/...', 1551, Array)
+#1 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(1551): Raven_Breadcrumbs_ErrorHandler->handleError(8, 'Undefined varia...', '/home/spales2t/...', 1551, Array)
+#2 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(910): Raven_Client::cleanup_php_version()
+#3 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(686): Raven_Client->capture(Array, Array, NULL)
+#4 /home/spales2t/public_html/abbonement/app/Exceptions/Handler.php(32): Raven_Client->captureException(Object(ErrorException))
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framewor in /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php on line 1551
+[24-Oct-2024 18:18:40 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[26-Oct-2024 22:13:57 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[27-Oct-2024 20:43:24 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[29-Oct-2024 00:08:55 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[30-Oct-2024 17:27:54 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[31-Oct-2024 18:49:21 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[01-Nov-2024 17:50:51 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[01-Nov-2024 20:31:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[02-Nov-2024 18:01:23 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[03-Nov-2024 19:54:18 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[06-Nov-2024 09:02:17 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[07-Nov-2024 11:10:49 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[08-Nov-2024 09:23:02 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Nov-2024 02:07:06 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Nov-2024 02:08:47 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Nov-2024 02:40:40 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[10-Nov-2024 03:10:27 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[11-Nov-2024 19:47:59 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[11-Nov-2024 19:50:18 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php:795
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(775): Illuminate\Container\Container->getDependencies()
+#2 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#3 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#4 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(220): Illuminate\Foundation\Application->make()
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#6 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build()
+#7 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(674): Illuminate\Container\Container->make()
+#8 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make()
+#9 /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#11 {main}
+  thrown in /home/spales2t/public_html/abbonement/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 795
+[11-Nov-2024 19:50:51 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined variable: version in /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php:1551
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Breadcrumbs/ErrorHandler.php(34): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/spales2t/...', 1551, Array)
+#1 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(1551): Raven_Breadcrumbs_ErrorHandler->handleError(8, 'Undefined varia...', '/home/spales2t/...', 1551, Array)
+#2 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(910): Raven_Client::cleanup_php_version()
+#3 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(686): Raven_Client->capture(Array, Array, NULL)
+#4 /home/spales2t/public_html/abbonement/app/Exceptions/Handler.php(32): Raven_Client->captureException(Object(ErrorException))
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framewor in /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php on line 1551
+[11-Nov-2024 19:50:53 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined variable: version in /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php:1551
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Breadcrumbs/ErrorHandler.php(34): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/spales2t/...', 1551, Array)
+#1 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(1551): Raven_Breadcrumbs_ErrorHandler->handleError(8, 'Undefined varia...', '/home/spales2t/...', 1551, Array)
+#2 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(910): Raven_Client::cleanup_php_version()
+#3 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(686): Raven_Client->capture(Array, Array, NULL)
+#4 /home/spales2t/public_html/abbonement/app/Exceptions/Handler.php(32): Raven_Client->captureException(Object(ErrorException))
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framewor in /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php on line 1551
+[11-Nov-2024 19:50:54 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined variable: version in /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php:1551
+Stack trace:
+#0 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Breadcrumbs/ErrorHandler.php(34): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/spales2t/...', 1551, Array)
+#1 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(1551): Raven_Breadcrumbs_ErrorHandler->handleError(8, 'Undefined varia...', '/home/spales2t/...', 1551, Array)
+#2 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(910): Raven_Client::cleanup_php_version()
+#3 /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php(686): Raven_Client->capture(Array, Array, NULL)
+#4 /home/spales2t/public_html/abbonement/app/Exceptions/Handler.php(32): Raven_Client->captureException(Object(ErrorException))
+#5 /home/spales2t/public_html/abbonement/vendor/laravel/framewor in /home/spales2t/public_html/abbonement/vendor/sentry/sentry/lib/Raven/Client.php on line 1551
+[11-Nov-2024 14:21:11 Africa/Casablanca] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.1.0". You are running 7.0.33. in /home/spales2t/public_html/abbonement/vendor/composer/platform_check.php on line 24
